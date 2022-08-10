@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Zikirler" android:id="@+id/menu_zikir"
+        android:icon="@drawable/vector_asset_tesbih"/>
+    <item android:title="Saatler"  android:id="@+id/saatler"
+        android:icon="@drawable/vector_asset_saatler"/>
+    <item android:title="Ayet"  android:id="@+id/ayet"
+        android:icon="@drawable/vector_asset_ayet"/>
+    <item android:title="Seçenekler"  android:id="@+id/seçenekler"
+        android:icon="@drawable/vector_asset_secenek"/>
+</menu>

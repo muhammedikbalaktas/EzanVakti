@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/add_zikir_icon.xml" value="0.205" />
+        <entry key="app/src/main/res/drawable/background3.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/background_1.xml" value="0.19" />
+        <entry key="app/src/main/res/drawable/background_2.xml" value="0.19" />
+        <entry key="app/src/main/res/drawable/background_for_button.xml" value="0.205" />
+        <entry key="app/src/main/res/drawable/background_for_past_time.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/background_for_recyclerview_item.xml" value="0.205" />
+        <entry key="app/src/main/res/drawable/background_for_textview.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/background_for_textview_title.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/background_for_zikir.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/background_spinner.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/delete_icon.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/expand_less_icon.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/expand_more_icon.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/vector_asset_ayet.xml" value="0.2425" />
+        <entry key="app/src/main/res/drawable/vector_asset_secenek.xml" value="0.2425" />
+        <entry key="app/src/main/res/drawable/vector_asset_tesbih.xml" value="0.2425" />
+        <entry key="app/src/main/res/layout/activity_add_zikir.xml" value="0.234375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_select_city.xml" value="0.21614583333333334" />
+        <entry key="app/src/main/res/layout/activity_select_city_name.xml" value="0.2708333333333333" />
+        <entry key="app/src/main/res/layout/activity_zikir_cek.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/fragment_ayet_fragment.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/fragment_home_fragment.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_settings_fargment.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/fragment_zikir_fragment.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/my_row.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/text_for_spinner.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/menu/my_menu_resource.xml" value="0.35520833333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
